@@ -42,11 +42,7 @@
             include('PostComment.php');
         }
     ?>
-    <div style="text-align:center;">
-    <?php
-     include('SocialMedia.html');
-     ?>
-    </div>
+    
 
 </body>
 </html>
